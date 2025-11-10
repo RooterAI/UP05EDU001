@@ -101,8 +101,8 @@ guess-number-game/
 
 ## Git workflow для команды
 
-### 1. Начальная настройка:
-```bash
+### 1. Начальная настройка (PowerShell):
+```powershell
 # Клонирование репозитория
 git clone [URL репозитория]
 cd guess-number-game-team-X
@@ -112,8 +112,8 @@ git config user.name "Ваше имя"
 git config user.email "ваш@email.com"
 ```
 
-### 2. Разработка в ветках:
-```bash
+### 2. Разработка в ветках (PowerShell):
+```powershell
 # Создание feature-ветки
 git checkout -b feature/game-logic
 
@@ -126,7 +126,7 @@ git push origin feature/game-logic
 ```
 
 ### 3. Code Review и слияние:
-```bash
+```powershell
 # Создание Pull Request на GitHub
 # После одобрения - слияние в main
 git checkout main
@@ -157,4 +157,5 @@ git pull origin main
 ---
 **Время на разработку:** 1.5-2 часа  
 **Сложность:** Начинающий  
-**Язык:** Python 3.6+
+**Язык:** Python 3.6+  
+**Среда:** Windows 11 + VS Code + PowerShell

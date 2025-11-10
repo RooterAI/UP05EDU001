@@ -53,9 +53,9 @@ calculator-project/
 - [ ] Интуитивно понятный интерфейс
 - [ ] Код хорошо структурирован и прокомментирован
 
-## Git workflow
-```bash
-# Начальная настройка
+## Git workflow для Windows 11
+```powershell
+# Начальная настройка PowerShell
 git clone [repository-url]
 cd calculator-project
 
@@ -76,4 +76,5 @@ git push origin feature/basic-operations
 
 **Время разработки:** 1.5-2 часа  
 **Уровень:** Начинающий-средний  
-**Технологии:** Python 3, файловая система
+**Технологии:** Python 3, файловая система  
+**Среда:** Windows 11 + VS Code + PowerShell

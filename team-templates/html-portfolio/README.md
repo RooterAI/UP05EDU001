@@ -75,4 +75,5 @@ team-portfolio/
 
 **Время разработки:** 2-2.5 часа  
 **Уровень:** Начинающий-средний  
-**Технологии:** HTML5, CSS3, GitHub Pages
+**Технологии:** HTML5, CSS3, GitHub Pages  
+**Среда:** Windows 11 + VS Code + PowerShell
